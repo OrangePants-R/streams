@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "Some Stuff woo!",
+      "description": "Other stuff woo!",
+      "userId": "103432511718745320414",
+      "id": 8
+    },
+    {
+      "title": "From another user",
+      "description": "Look!",
+      "userId": "101406303604955928936",
+      "id": 10
+    },
+    {
+      "title": "This is a stream create using final-form",
+      "description": "final-form!",
+      "userId": "103432511718745320414",
+      "id": 11
+    }
+  ]
+}
